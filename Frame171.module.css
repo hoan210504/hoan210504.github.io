@@ -1,4 +1,4 @@
-.frame-child1 {
+.frame-child3 {
   position: relative;
   width: 77px;
   height: 93px;
@@ -16,14 +16,14 @@
   flex-shrink: 0;
   overflow: hidden;
 }
-.frame-parent1,
-.frame-top,
-.frame-wrapper1 {
+.frame-parent2,
+.frame-root,
+.frame-wrapper2 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.frame-parent1 {
+.frame-parent2 {
   border-radius: var(--br-14xl);
   background-color: var(--color-white);
   border: 3px solid var(--color-black);
@@ -34,14 +34,14 @@
   padding: var(--padding-47xl) var(--padding-25xl);
   gap: var(--gap-3xs);
 }
-.frame-top,
-.frame-wrapper1 {
+.frame-root,
+.frame-wrapper2 {
   flex-direction: column;
 }
-.frame-wrapper1 {
+.frame-wrapper2 {
   padding: var(--padding-3xs);
 }
-.frame-top {
+.frame-root {
   position: relative;
   overflow-x: auto;
   max-width: 90%;

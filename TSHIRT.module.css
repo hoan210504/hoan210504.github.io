@@ -15,7 +15,7 @@
   width: 52px;
   height: 2px;
 }
-.group-child226 {
+.group-child217 {
   position: absolute;
   top: 0;
   left: 0;
@@ -23,27 +23,27 @@
   width: 1512px;
   height: 49px;
 }
-.home6,
-.sn-phm7,
-.t-shirt9 {
+.home4,
+.sn-phm4,
+.t-shirt25 {
   position: relative;
   display: inline-block;
   flex-shrink: 0;
 }
-.home6 {
+.home4 {
   width: 50px;
   height: 21.24px;
   cursor: pointer;
 }
-.sn-phm7,
-.t-shirt9 {
+.sn-phm4,
+.t-shirt25 {
   width: 91px;
   height: 21px;
 }
-.t-shirt9 {
+.t-shirt25 {
   opacity: 0.5;
 }
-.home-parent4 {
+.home-parent2 {
   position: absolute;
   top: 13px;
   left: 12px;
@@ -53,7 +53,7 @@
   justify-content: flex-start;
   gap: var(--gap-lgi);
 }
-.rectangle-parent88 {
+.rectangle-parent86 {
   position: absolute;
   top: 111px;
   left: 0;
@@ -63,21 +63,21 @@
   color: var(--color-black);
   font-family: var(--font-paytone-one);
 }
-.frame-child4 {
+.frame-child1 {
   position: relative;
   width: 6.92px;
   height: 14.39px;
   flex-shrink: 0;
   opacity: 0.5;
 }
-.line-group,
+.line-parent,
 .t-shirt-inner {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.line-group {
+.line-parent {
   gap: var(--gap-80xl);
 }
 .t-shirt-inner {
@@ -86,8 +86,8 @@
   left: 69px;
   padding: var(--padding-9xs) var(--padding-12xs);
 }
-.vector-icon23,
-.vector-icon24 {
+.vector-icon14,
+.vector-icon15 {
   position: absolute;
   height: 1.95%;
   width: 5.14%;
@@ -99,7 +99,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.vector-icon24 {
+.vector-icon15 {
   height: 6.52%;
   width: 8.19%;
   top: 0;
@@ -107,14 +107,16 @@
   bottom: 93.48%;
   left: 0;
 }
-.div7 {
-  position: absolute;
+.div6 {
   top: 246.48px;
   left: 39px;
 }
+.div6,
 .t-shirt-inner1,
-.vector-parent41 {
+.vector-parent37 {
   position: absolute;
+}
+.vector-parent37 {
   height: 100%;
   width: 100%;
   top: 0;
@@ -131,13 +133,13 @@
   left: 71.83%;
   font-family: var(--font-baloo-bhai);
 }
-.hansmodevngmailcom3,
-.vector-icon25 {
+.hansmodevngmailcom2,
+.vector-icon16 {
   position: absolute;
   top: 235.06px;
   left: 42px;
 }
-.vector-icon25 {
+.vector-icon16 {
   height: 4.94%;
   width: 6.13%;
   top: 0;
@@ -148,7 +150,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.hansmodevngmailcom-parent1 {
+.hansmodevngmailcom-container {
   position: absolute;
   top: 1850.94px;
   left: 1086px;
@@ -156,13 +158,15 @@
   height: 273.06px;
   font-family: var(--font-baloo-bhai);
 }
-.group-child227,
-.t-shirt10 {
+.group-child218,
+.t-shirt26 {
   position: absolute;
+}
+.t-shirt26 {
   top: 0;
   left: 0;
 }
-.group-child227 {
+.group-child218 {
   top: 75.5px;
   left: 18.5px;
   border-top: 3px solid var(--color-darkslategray-100);
@@ -171,12 +175,14 @@
   height: 3px;
 }
 .t-shirt-inner2,
-.t-shirt-parent2 {
+.t-shirt-parent1 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 187px;
   height: 77px;
+}
+.t-shirt-parent1 {
+  top: 0;
+  left: 0;
 }
 .t-shirt-inner2 {
   top: 208px;
@@ -185,7 +191,7 @@
   color: var(--color-steelblue);
   font-family: var(--font-paytone-one);
 }
-.group-child228 {
+.group-child219 {
   position: absolute;
   top: 7.92px;
   left: 0;
@@ -193,7 +199,7 @@
   height: 458.11px;
   object-fit: cover;
 }
-.sale47 {
+.sale46 {
   position: absolute;
   top: 0;
   left: 381.11px;
@@ -203,7 +209,7 @@
   transform: rotate(47.74deg);
   transform-origin: 0 0;
 }
-.rectangle-parent89,
+.rectangle-parent87,
 .t-shirt-inner3 {
   position: absolute;
   top: 0;
@@ -216,22 +222,25 @@
   left: 100px;
   cursor: pointer;
 }
-.group-child230,
-.rectangle-parent90,
-.sale49 {
+.group-child221,
+.rectangle-parent88 {
   position: absolute;
-  top: 35.97px;
   left: 0;
+}
+.rectangle-parent88 {
+  top: 35.97px;
   width: 422.49px;
   height: 466.03px;
 }
-.group-child230,
-.sale49 {
+.sale48 {
+  position: absolute;
+}
+.group-child221 {
   top: 51.95px;
   width: 110.1px;
   height: 102.16px;
 }
-.sale49 {
+.sale48 {
   top: 58.08px;
   left: 64.5px;
   display: inline-block;
@@ -240,47 +249,50 @@
   transform: rotate(42.65deg);
   transform-origin: 0 0;
 }
-.group-parent75,
-.vector-parent43 {
+.group-parent69,
+.vector-parent39 {
   position: absolute;
+}
+.vector-parent39 {
   top: 0;
   left: 314.12px;
   width: 158.19px;
   height: 171.44px;
 }
-.group-parent75 {
+.group-parent69 {
   top: 1011px;
   left: 100px;
   width: 472.31px;
   height: 502px;
 }
-.group-child237,
-.group-parent76,
-.group-parent77,
-.group-parent78 {
+.group-child228 {
   position: absolute;
+}
+.group-parent70 {
   top: 1713px;
+}
+.group-parent70,
+.group-parent71,
+.group-parent72 {
+  position: absolute;
   left: 100px;
   width: 472.31px;
   height: 502px;
 }
-.group-child237,
-.group-parent77,
-.group-parent78 {
+.group-parent71 {
   top: 2399px;
 }
-.group-child237,
-.group-parent78 {
+.group-parent72 {
   top: 3086px;
 }
-.group-child237 {
+.group-child228 {
   top: 7.93px;
   left: 0;
   width: 347.7px;
   height: 458.78px;
   object-fit: cover;
 }
-.sale53 {
+.sale52 {
   position: absolute;
   top: 0;
   left: 381.67px;
@@ -290,22 +302,25 @@
   transform: rotate(47.74deg);
   transform-origin: 0 0;
 }
-.group-child238,
-.rectangle-parent94,
-.sale54 {
+.group-child229,
+.rectangle-parent92 {
   position: absolute;
-  top: 36.03px;
   left: 0;
+}
+.rectangle-parent92 {
+  top: 36.03px;
   width: 423.12px;
   height: 466.71px;
 }
-.group-child238,
-.sale54 {
+.sale53 {
+  position: absolute;
+}
+.group-child229 {
   top: 52.03px;
   width: 110.26px;
   height: 102.31px;
 }
-.sale54 {
+.sale53 {
   top: 58.17px;
   left: 64.59px;
   display: inline-block;
@@ -314,51 +329,55 @@
   transform: rotate(42.65deg);
   transform-origin: 0 0;
 }
-.vector-parent47 {
+.vector-parent43 {
   position: absolute;
   top: 0;
   left: 313.58px;
   width: 158.42px;
   height: 171.69px;
 }
-.group-parent79,
-.group-parent80 {
+.group-parent73,
+.group-parent74 {
+  left: 544px;
+  width: 472px;
+  height: 502.74px;
+}
+.group-parent73 {
   position: absolute;
   top: 308px;
-  left: 544px;
-  width: 472px;
-  height: 502.74px;
 }
-.group-parent80 {
+.group-parent74 {
   top: 1010px;
 }
-.group-child247,
-.group-parent81,
-.group-parent82,
-.group-parent83 {
+.group-child238,
+.group-parent74 {
   position: absolute;
+}
+.group-parent75 {
   top: 1712px;
+}
+.group-parent75,
+.group-parent76,
+.group-parent77 {
+  position: absolute;
   left: 544px;
   width: 472px;
   height: 502.74px;
 }
-.group-child247,
-.group-parent82,
-.group-parent83 {
+.group-parent76 {
   top: 2398px;
 }
-.group-child247,
-.group-parent83 {
+.group-parent77 {
   top: 3085px;
 }
-.group-child247 {
+.group-child238 {
   top: 7.94px;
   left: 0;
   width: 347.88px;
   height: 459.02px;
   object-fit: cover;
 }
-.sale60 {
+.sale59 {
   position: absolute;
   top: 0;
   left: 381.86px;
@@ -368,22 +387,25 @@
   transform: rotate(47.74deg);
   transform-origin: 0 0;
 }
-.group-child248,
-.rectangle-parent99,
-.sale61 {
+.group-child239,
+.rectangle-parent97 {
   position: absolute;
-  top: 36.04px;
   left: 0;
+}
+.rectangle-parent97 {
+  top: 36.04px;
   width: 423.34px;
   height: 466.96px;
 }
-.group-child248,
-.sale61 {
+.sale60 {
+  position: absolute;
+}
+.group-child239 {
   top: 52.06px;
   width: 110.32px;
   height: 102.37px;
 }
-.sale61 {
+.sale60 {
   top: 58.2px;
   left: 64.63px;
   display: inline-block;
@@ -392,60 +414,64 @@
   transform: rotate(42.65deg);
   transform-origin: 0 0;
 }
-.group-parent84,
-.vector-parent52 {
+.group-parent78,
+.vector-parent48 {
   position: absolute;
+}
+.vector-parent48 {
   top: 0;
   left: 313.74px;
   width: 158.5px;
   height: 171.78px;
 }
-.group-parent84 {
+.group-parent78 {
   top: 308px;
   left: 988px;
   width: 472.25px;
   height: 503px;
 }
-.group-parent85,
-.group-parent86,
-.group-parent87,
-.group-parent88 {
-  position: absolute;
+.group-parent79 {
   top: 1010px;
+}
+.group-parent79,
+.group-parent80,
+.group-parent81,
+.group-parent82 {
+  position: absolute;
   left: 988px;
   width: 472.25px;
   height: 503px;
 }
-.group-parent86,
-.group-parent87,
-.group-parent88 {
+.group-parent80 {
   top: 1712px;
 }
-.group-parent87,
-.group-parent88 {
+.group-parent81 {
   top: 2398px;
 }
-.group-parent88 {
+.group-parent82 {
   top: 3085px;
 }
 .aircraft-focus-tee2 {
   left: 0;
   cursor: pointer;
-}
-.aircraft-focus-tee2,
-.b71,
-.b72,
-.parent34 {
   position: absolute;
   top: 0;
 }
-.b71 {
+.b69,
+.b70 {
+  top: 0;
+}
+.b69,
+.b70,
+.parent34 {
+  position: absolute;
+}
+.b69 {
   left: 0;
   text-decoration: line-through;
   opacity: 0.5;
 }
-.b72,
-.parent34 {
+.b70 {
   left: 125px;
 }
 .parent34 {
@@ -461,32 +487,34 @@
   width: 250px;
   height: 76px;
 }
-.group-child257,
-.group-child258,
-.group-child259 {
-  position: absolute;
+.group-child248 {
   top: 3px;
   left: 0;
+}
+.group-child248,
+.group-child249,
+.group-child250 {
+  position: absolute;
   width: 48px;
   height: 48px;
   object-fit: cover;
 }
-.group-child258,
-.group-child259 {
+.group-child249 {
   top: 0;
   left: 81px;
 }
-.group-child259 {
+.group-child250 {
+  top: 0;
   left: 162px;
 }
-.rectangle-parent104 {
+.rectangle-parent102 {
   position: absolute;
   top: 88px;
   left: 18px;
   width: 210px;
   height: 51px;
 }
-.group-parent89,
+.group-parent83,
 .t-shirt-inner4 {
   position: absolute;
   top: 0;
@@ -517,14 +545,14 @@
   top: 0;
   height: 76px;
 }
-.rectangle-parent105 {
+.rectangle-parent103 {
   position: absolute;
   top: 88px;
   left: 3px;
   width: 210px;
   height: 51px;
 }
-.group-parent90,
+.group-parent84,
 .t-shirt-inner5 {
   position: absolute;
   top: 0;
@@ -538,15 +566,19 @@
   text-align: center;
   color: var(--color-black);
 }
-.b76,
-.beans-tee2,
-.parent36 {
+.b74 {
   position: absolute;
+  top: 0;
+}
+.beans-tee2 {
   top: 0;
   left: 45px;
 }
-.b76,
+.beans-tee2,
 .parent36 {
+  position: absolute;
+}
+.b74 {
   left: 119px;
 }
 .parent36 {
@@ -556,7 +588,7 @@
   height: 32px;
 }
 .beans-tee-container,
-.group-parent91,
+.group-parent85,
 .t-shirt-inner6 {
   position: absolute;
   top: 0;
@@ -564,7 +596,7 @@
   width: 224px;
   height: 76px;
 }
-.group-parent91,
+.group-parent85,
 .t-shirt-inner6 {
   height: 139px;
 }
@@ -579,8 +611,8 @@
   top: 0;
   left: 42px;
 }
-.group-child267,
-.group-child268 {
+.group-child258,
+.group-child259 {
   position: absolute;
   top: 0;
   left: 81px;
@@ -589,7 +621,7 @@
   width: 48px;
   height: 48px;
 }
-.group-child268 {
+.group-child259 {
   left: 162px;
 }
 .t-shirt-inner7 {
@@ -648,19 +680,20 @@
   top: 0;
   left: 63px;
 }
+.t-shirt-inner11 {
+  top: 2205px;
+}
 .t-shirt-inner11,
 .t-shirt-inner12,
 .t-shirt-inner13 {
   position: absolute;
-  top: 2205px;
   left: 606px;
   width: 224px;
   height: 139px;
   text-align: center;
   color: var(--color-black);
 }
-.t-shirt-inner12,
-.t-shirt-inner13 {
+.t-shirt-inner12 {
   top: 2891px;
 }
 .t-shirt-inner13 {
@@ -695,14 +728,14 @@
   width: 236px;
   height: 76px;
 }
-.rectangle-parent115 {
+.rectangle-parent113 {
   position: absolute;
   top: 88px;
   left: 13px;
   width: 210px;
   height: 51px;
 }
-.group-parent100,
+.group-parent94,
 .t-shirt-inner15 {
   position: absolute;
   top: 0;
@@ -765,46 +798,48 @@
   width: 55px;
   height: 13px;
 }
-.group-child302,
-.group-child303,
-.group-child304 {
+.group-child293 {
+  left: 0;
+}
+.group-child293,
+.group-child294,
+.group-child295 {
   position: absolute;
   top: 0;
-  left: 0;
   width: 347.19px;
   height: 458.11px;
   object-fit: cover;
 }
-.group-child303,
-.group-child304 {
+.group-child294 {
   left: 347px;
 }
-.group-child304 {
+.group-child295 {
   left: 694px;
 }
-.group-wrapper79,
-.rectangle-parent119 {
+.group-wrapper70,
+.rectangle-parent117 {
   position: absolute;
-  top: 0;
   left: 0;
+}
+.rectangle-parent117 {
+  top: 0;
   width: 1041.19px;
   height: 458.11px;
 }
-.group-wrapper79 {
+.group-wrapper70 {
   top: 44px;
   width: 347px;
   height: 421px;
   overflow: hidden;
 }
-.group-child305,
-.sale67 {
+.group-child296 {
   position: absolute;
   top: 51.95px;
   left: 312.12px;
   width: 110.1px;
   height: 102.16px;
 }
-.sale67 {
+.sale66 {
   top: 58.08px;
   left: 376.62px;
   display: inline-block;
@@ -813,7 +848,10 @@
   transform: rotate(42.65deg);
   transform-origin: 0 0;
 }
-.group-child306,
+.group-child297,
+.sale66 {
+  position: absolute;
+}
 .instance-container {
   position: absolute;
   top: 309px;
@@ -821,14 +859,14 @@
   width: 470.31px;
   height: 465px;
 }
-.group-child306 {
+.group-child297 {
   top: 0;
   left: 0;
   background-color: var(--color-darkslategray-200);
   width: 1514px;
   height: 112px;
 }
-.hansmode8 {
+.hansmode7 {
   position: absolute;
   top: 32.83px;
   left: 100.13px;
@@ -840,54 +878,60 @@
   -webkit-text-stroke: 0.8px #8ca657;
   cursor: pointer;
 }
-.group-wrapper80 {
+.group-wrapper71 {
   position: absolute;
   top: 0;
   left: 0;
   width: 1514px;
   height: 112px;
 }
-.home7,
-.sn-phm9 {
+.home5,
+.sn-phm6 {
   position: absolute;
   left: 0;
   display: inline-block;
 }
-.home7 {
+.home5 {
   top: 0;
   width: 64px;
   height: 21px;
   cursor: pointer;
 }
-.sn-phm9 {
+.sn-phm6 {
   height: 103.57%;
   width: 118.82%;
   top: -1.79%;
 }
-.hans-mode-group3,
-.lin-h3,
-.sn-phm8 {
+.hans-mode-group2,
+.lin-h2,
+.sn-phm5 {
   position: absolute;
   top: 0;
-  left: 116px;
-  width: 108px;
   height: 21px;
 }
-.hans-mode-group3,
-.lin-h3 {
-  left: 276px;
+.sn-phm5 {
+  left: 116px;
+  width: 108px;
+}
+.hans-mode-group2,
+.lin-h2 {
   display: inline-block;
+}
+.lin-h2 {
+  left: 276px;
   width: 79px;
 }
-.hans-mode-group3 {
+.hans-mode-group2 {
   left: 407px;
   text-decoration: underline;
   color: inherit;
   width: 202px;
 }
-.group-parent104,
-.home-parent5 {
+.group-parent98,
+.home-parent3 {
   position: absolute;
+}
+.home-parent3 {
   top: 45px;
   left: 431px;
   width: 609px;
@@ -896,7 +940,7 @@
   color: var(--color-white);
   font-family: var(--font-paytone-one);
 }
-.group-parent104 {
+.group-parent98 {
   top: 0;
   left: 0;
   width: 1514px;
@@ -921,7 +965,7 @@
   width: 75px;
   height: 3px;
 }
-.vector-icon26 {
+.vector-icon17 {
   position: absolute;
   height: 63.17%;
   width: 13.86%;
@@ -934,9 +978,9 @@
   max-height: 100%;
   cursor: pointer;
 }
-.twemojiflag-vietnam-icon3,
-.vector-icon27,
-.vector-icon28 {
+.twemojiflag-vietnam-icon2,
+.vector-icon18,
+.vector-icon19 {
   position: absolute;
   top: 0;
   left: 168px;
@@ -944,8 +988,8 @@
   height: 47px;
   overflow: hidden;
 }
-.vector-icon27,
-.vector-icon28 {
+.vector-icon18,
+.vector-icon19 {
   height: 60.91%;
   width: 13.37%;
   top: 22.27%;
@@ -955,7 +999,7 @@
   max-width: 100%;
   max-height: 100%;
 }
-.vector-icon28 {
+.vector-icon19 {
   height: 72.19%;
   width: 11.39%;
   top: 16.14%;
@@ -964,7 +1008,7 @@
   left: 53.96%;
   cursor: pointer;
 }
-.b101 {
+.b99 {
   position: absolute;
   top: 3px;
   left: 5px;
@@ -972,15 +1016,15 @@
   width: 9px;
   height: 14px;
 }
-.ellipse-container,
-.group-wrapper84 {
+.ellipse-group,
+.group-wrapper75 {
   position: absolute;
   top: 0;
   left: 0;
   width: 18px;
   height: 20px;
 }
-.group-wrapper84 {
+.group-wrapper75 {
   top: 7.44px;
   left: 123px;
   cursor: pointer;
@@ -996,7 +1040,7 @@
   text-align: center;
   font-size: var(--font-size-sm);
 }
-.group-child308 {
+.group-child299 {
   position: absolute;
   top: 80.5px;
   left: 4.5px;
@@ -1022,7 +1066,7 @@
   font-family: var(--font-noto-sans-telugu);
   color: var(--color-black);
 }
-.group-child309 {
+.group-child300 {
   position: absolute;
   top: 0;
   left: 0;
@@ -1030,25 +1074,27 @@
   width: 187px;
   height: 76px;
 }
-.ng-k5 {
+.ng-k4 {
   position: absolute;
   top: 22px;
   left: 47px;
 }
-.group-wrapper86,
-.rectangle-parent121 {
+.group-wrapper77,
+.rectangle-parent119 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 187px;
   height: 76px;
 }
-.group-wrapper86 {
+.rectangle-parent119 {
+  top: 0;
+  left: 0;
+}
+.group-wrapper77 {
   top: 164px;
   left: 960px;
   font-family: var(--font-noto-sans-telugu);
 }
-.group-child310 {
+.group-child301 {
   position: absolute;
   top: 0;
   left: 0;
@@ -1066,7 +1112,7 @@
   left: 11px;
   opacity: 0.5;
 }
-.rectangle-parent122 {
+.rectangle-parent120 {
   position: absolute;
   top: 164px;
   left: 360px;
@@ -1076,7 +1122,7 @@
   color: var(--color-black);
   font-family: var(--font-noto-sans-telugu);
 }
-.group-child311 {
+.group-child302 {
   position: absolute;
   top: 301px;
   left: 37px;
@@ -1084,92 +1130,92 @@
   width: 1513px;
   height: 653px;
 }
-.social-network3 {
+.social-network2 {
   position: absolute;
   top: 0;
   left: 1px;
 }
-.bi-vit7 {
+.bi-vit5 {
   margin: 0;
   padding-left: var(--padding-8xl);
 }
-.bi-vit6 {
-  position: absolute;
+.bi-vit4 {
   top: 0;
-  left: 0;
   display: inline-block;
   width: 94px;
   height: 28px;
 }
-.bi-vit-parent1,
-.tuyn-dng6 {
+.bi-vit-container,
+.bi-vit4,
+.tuyn-dng4 {
   position: absolute;
-  top: 32px;
   left: 0;
 }
-.bi-vit-parent1 {
+.tuyn-dng4 {
+  top: 32px;
+}
+.bi-vit-container {
   top: 44px;
   width: 130px;
   height: 64px;
   font-size: var(--font-inherit);
   font-family: var(--font-inherit);
 }
-.group-wrapper87,
-.social-network-parent1 {
+.group-wrapper78,
+.social-network-container {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 195px;
   height: 108px;
 }
-.group-wrapper87 {
+.social-network-container {
+  top: 0;
+  left: 0;
+}
+.group-wrapper78 {
   top: 362px;
   left: 804px;
 }
-.t-shirt11 {
+.t-shirt27 {
   position: absolute;
   top: 0;
   left: 1px;
   cursor: pointer;
 }
-.hoodie7,
-.shirt7,
-.sweater7 {
+.shirt14,
+.sweater14 {
   position: absolute;
   top: 32px;
   left: 1px;
 }
-.hoodie7,
-.sweater7 {
+.sweater14 {
   top: 64px;
 }
-.hoodie7 {
+.hoodie14,
+.jacket14 {
+  position: absolute;
   top: 96px;
   left: 0;
 }
-.bomber7,
-.jacket7,
-.polo7 {
-  position: absolute;
+.jacket14 {
   top: 128px;
-  left: 0;
 }
-.bomber7,
-.polo7 {
+.bomber14,
+.polo14 {
+  position: absolute;
   top: 160px;
   left: 1px;
 }
-.polo7 {
+.polo14 {
   top: 192px;
   left: 0;
 }
-.croptop7,
-.t-shirt-parent3 {
+.croptop14,
+.t-shirt-parent2 {
   position: absolute;
   top: 224px;
   left: 0;
 }
-.t-shirt-parent3 {
+.t-shirt-parent2 {
   top: 38px;
   left: 1px;
   width: 114px;
@@ -1177,20 +1223,20 @@
   font-size: var(--font-inherit);
   font-family: var(--font-inherit);
 }
-.danh-mc-parent1,
-.group-wrapper88 {
+.danh-mc-container,
+.group-wrapper79 {
   position: absolute;
   top: 0;
   left: 0;
   width: 117px;
   height: 294px;
 }
-.group-wrapper88 {
+.group-wrapper79 {
   top: 362px;
   left: 582px;
 }
-.vector-icon29,
-.vector-icon30 {
+.vector-icon20,
+.vector-icon21 {
   position: absolute;
   height: 17.32%;
   width: 5.14%;
@@ -1202,7 +1248,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.vector-icon30 {
+.vector-icon21 {
   height: 57.89%;
   width: 8.19%;
   top: 21.05%;
@@ -1210,13 +1256,13 @@
   bottom: 21.05%;
   left: 0;
 }
-.div8,
-.group-wrapper89 {
+.div7,
+.group-wrapper80 {
   position: absolute;
   top: 0;
   left: 39px;
 }
-.group-wrapper89 {
+.group-wrapper80 {
   height: 3.98%;
   width: 10.26%;
   top: 45.6%;
@@ -1224,31 +1270,34 @@
   bottom: 50.42%;
   left: 67.47%;
 }
-.hans-mode-t3 {
+.hans-mode-t2 {
   margin: 0;
 }
-.hans-mode-t-container3 {
+.hans-mode-t-container2 {
   position: absolute;
   top: 38px;
   left: 0;
   font-size: var(--font-size-xl);
   font-family: var(--font-baloo-2);
 }
-.group-child312,
-.group-wrapper90,
-.thit-k-v-thi-trang-parent1 {
+.group-child303 {
   position: absolute;
-  top: 0;
-  left: 0;
+}
+.group-wrapper81,
+.thit-k-v-thi-trang-container {
+  position: absolute;
   width: 292px;
   height: 166px;
 }
-.group-child312,
-.group-wrapper90 {
+.thit-k-v-thi-trang-container {
+  top: 0;
+  left: 0;
+}
+.group-wrapper81 {
   top: 11px;
   left: 47px;
 }
-.group-child312 {
+.group-child303 {
   height: 20.34%;
   width: 10.62%;
   top: 0;
@@ -1259,15 +1308,15 @@
   overflow: hidden;
   max-height: 100%;
 }
-.group-parent106,
-.vector-icon31 {
+.group-parent100,
+.vector-icon22 {
   position: absolute;
   top: 351px;
   left: 138px;
   width: 339px;
   height: 177px;
 }
-.vector-icon31 {
+.vector-icon22 {
   height: 42.11%;
   width: 6.13%;
   top: 21.05%;
@@ -1278,15 +1327,15 @@
   overflow: hidden;
   max-height: 100%;
 }
-.hansmodevngmailcom-parent2 {
+.hansmodevngmailcom-parent1 {
   position: absolute;
   top: 362px;
   left: 1124px;
   width: 326px;
   height: 38px;
 }
-.group-child313,
-.group-child314 {
+.group-child304,
+.group-child305 {
   position: absolute;
   top: 667.5px;
   left: -0.5px;
@@ -1295,11 +1344,11 @@
   width: 1667px;
   height: 1px;
 }
-.group-child314 {
+.group-child305 {
   top: 690.5px;
   width: 1551px;
 }
-.group-child315 {
+.group-child306 {
   position: absolute;
   height: 3.51%;
   width: 24.56%;
@@ -1311,78 +1360,77 @@
   overflow: hidden;
   max-height: 100%;
 }
-.gii-thiu3,
-.sale68 {
+.gii-thiu2,
+.sale67 {
   position: absolute;
   top: 0;
+}
+.sale67 {
   left: 94px;
 }
-.gii-thiu3 {
+.gii-thiu2 {
   left: 182px;
 }
-.chnh-sch3,
-.ng-k6,
-.ng-nhp4 {
-  position: absolute;
-  top: 0;
+.chnh-sch2 {
   left: 314px;
 }
-.ng-k6,
-.ng-nhp4 {
+.chnh-sch2,
+.ng-k5,
+.ng-nhp3 {
+  position: absolute;
+  top: 0;
+}
+.ng-k5 {
   left: 580px;
 }
-.ng-nhp4 {
+.ng-nhp3 {
   left: 692px;
   cursor: pointer;
 }
-.copyright-20233,
-.home-parent6 {
+.copyright-20232,
+.home-parent4 {
   position: absolute;
   font-size: var(--font-size-base);
   font-family: var(--font-paytone-one);
 }
-.home-parent6 {
+.home-parent4 {
   top: 814px;
   left: 399px;
   width: 789px;
   height: 22px;
 }
-.copyright-20233 {
+.copyright-20232 {
   top: 873px;
   left: 673px;
 }
-.group-child316,
-.group-child317,
-.group-child318,
-.group-child319,
-.group-child320 {
+.group-child307 {
+  left: 470.5px;
+}
+.group-child307,
+.group-child308,
+.group-child309,
+.group-child310,
+.group-child311 {
   position: absolute;
   top: 818.5px;
-  left: 470.5px;
   border-right: 1px solid var(--color-white);
   box-sizing: border-box;
   width: 1px;
   height: 18px;
 }
-.group-child317,
-.group-child318,
-.group-child319,
-.group-child320 {
+.group-child308 {
   left: 561.5px;
 }
-.group-child318,
-.group-child319,
-.group-child320 {
+.group-child309 {
   left: 692.5px;
 }
-.group-child319,
-.group-child320 {
+.group-child310 {
   left: 956.5px;
 }
-.group-child320 {
+.group-child311 {
   left: 1070.5px;
 }
-.group-parent105 {
+.group-parent99 {
   position: absolute;
   top: 3915px;
   left: -38px;
@@ -1390,7 +1438,7 @@
   height: 954px;
   font-family: var(--font-baloo-bhai);
 }
-.vector-icon32 {
+.vector-icon23 {
   position: absolute;
   height: 17.32%;
   width: 5.39%;
@@ -1402,7 +1450,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.facebook3 {
+.facebook2 {
   position: absolute;
   top: 0;
   left: 0;
@@ -1411,7 +1459,7 @@
   display: inline-block;
   width: 132px;
 }
-.facebook-wrapper1,
+.facebook-frame,
 .t-shirt-inner20 {
   position: absolute;
   top: 0;
@@ -1428,7 +1476,7 @@
   left: 72.29%;
   font-family: var(--font-baloo-bhai);
 }
-.t-shirt8 {
+.t-shirt24 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
@@ -1477,42 +1525,29 @@
 .polo-wrapper,
 .shirt-wrapper,
 .sweater-wrapper {
-  top: 12.5%;
-  bottom: 75%;
   background-color: var(--color-dimgray-200);
   display: flex;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.hoodie-wrapper,
-.jacket-wrapper,
-.polo-wrapper,
+.shirt-wrapper {
+  top: 12.5%;
+  bottom: 75%;
+}
 .sweater-wrapper {
   top: 25%;
   bottom: 62.5%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.hoodie-wrapper,
-.jacket-wrapper,
-.polo-wrapper {
+.hoodie-wrapper {
   top: 37.5%;
   bottom: 50%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.jacket-wrapper,
-.polo-wrapper {
+.jacket-wrapper {
   top: 50%;
   bottom: 37.5%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.polo-wrapper {
+.bomber-wrapper {
   top: 62.5%;
   bottom: 25%;
 }
-.croptop-wrapper,
 .polo-wrapper {
   top: 75%;
   bottom: 12.5%;

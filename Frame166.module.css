@@ -1,4 +1,4 @@
-.group-child197 {
+.group-child95 {
   position: absolute;
   top: 71px;
   left: 0;
@@ -15,7 +15,7 @@
   letter-spacing: 0.05em;
   line-height: 182.7%;
 }
-.group-child198 {
+.group-child96 {
   position: absolute;
   top: 0;
   left: 0;
@@ -33,43 +33,48 @@
   line-height: 182.7%;
   cursor: pointer;
 }
-.group-child199,
-.rectangle-parent75 {
+.group-child97,
+.rectangle-parent37 {
   position: absolute;
-  top: 37px;
   left: 0;
   width: 174px;
+}
+.rectangle-parent37 {
+  top: 37px;
   height: 34px;
 }
-.group-child199 {
+.group-child97 {
   top: 0;
   background-color: var(--color-dimgray-400);
   border: 1px solid var(--color-black);
   box-sizing: border-box;
   height: 37px;
 }
-.triu-vn-hon1 {
+.triu-vn-hon {
   position: absolute;
   top: 4px;
   left: 35px;
   letter-spacing: 0.05em;
   line-height: 182.7%;
 }
-.rectangle-parent74,
-.rectangle-parent76,
-.vector-icon15 {
+.rectangle-parent36,
+.rectangle-parent38 {
   position: absolute;
-  top: 0;
   left: 0;
   width: 174px;
+}
+.rectangle-parent38 {
+  top: 0;
   height: 37px;
 }
-.rectangle-parent74,
-.vector-icon15 {
+.vector-icon6 {
+  position: absolute;
+}
+.rectangle-parent36 {
   top: 60px;
   height: 108px;
 }
-.vector-icon15 {
+.vector-icon6 {
   height: 8.62%;
   width: 8.62%;
   top: 40.8%;

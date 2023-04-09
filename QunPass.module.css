@@ -172,18 +172,19 @@
   padding-left: var(--padding-8xl);
 }
 .bi-vit16 {
-  position: absolute;
   top: 0;
-  left: 0;
   display: inline-block;
   width: 94px;
   height: 28px;
 }
 .bi-vit-parent6,
+.bi-vit16,
 .tuyn-dng16 {
   position: absolute;
-  top: 32px;
   left: 0;
+}
+.tuyn-dng16 {
+  top: 32px;
 }
 .bi-vit-parent6 {
   top: 44px;
@@ -195,10 +196,12 @@
 .qun-pass-inner,
 .social-network-parent6 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 195px;
   height: 108px;
+}
+.social-network-parent6 {
+  top: 0;
+  left: 0;
 }
 .qun-pass-inner {
   top: 1065px;
@@ -288,13 +291,15 @@
   left: 0;
 }
 .div14 {
-  position: absolute;
   top: 0;
   left: 39px;
 }
+.div14,
 .qun-pass-inner2,
 .vector-parent96 {
   position: absolute;
+}
+.vector-parent96 {
   height: 100%;
   width: 100%;
   top: 0;
@@ -321,16 +326,19 @@
   font-size: var(--font-size-xl);
   font-family: var(--font-baloo-2);
 }
-.group-child471,
+.group-child471 {
+  position: absolute;
+}
 .group-wrapper139,
 .thit-k-v-thi-trang-parent6 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 292px;
   height: 166px;
 }
-.group-child471,
+.thit-k-v-thi-trang-parent6 {
+  top: 0;
+  left: 0;
+}
 .group-wrapper139 {
   top: 11px;
   left: 47px;
@@ -406,29 +414,31 @@
   max-height: 100%;
 }
 .home18 {
-  position: absolute;
-  top: 0;
   left: 0;
   cursor: pointer;
 }
 .gii-thiu8,
+.home18,
 .sale94 {
   position: absolute;
   top: 0;
+}
+.sale94 {
   left: 94px;
 }
 .gii-thiu8 {
   left: 182px;
+}
+.chnh-sch8 {
+  left: 314px;
 }
 .chnh-sch8,
 .ng-k15,
 .ng-nhp13 {
   position: absolute;
   top: 0;
-  left: 314px;
 }
-.ng-k15,
-.ng-nhp13 {
+.ng-k15 {
   left: 580px;
 }
 .ng-nhp13 {
@@ -450,6 +460,9 @@
   top: 1576px;
   left: 635px;
 }
+.qun-pass-child4 {
+  left: 432.5px;
+}
 .qun-pass-child4,
 .qun-pass-child5,
 .qun-pass-child6,
@@ -457,25 +470,18 @@
 .qun-pass-child8 {
   position: absolute;
   top: 1521.5px;
-  left: 432.5px;
   border-right: 1px solid var(--color-white);
   box-sizing: border-box;
   width: 1px;
   height: 18px;
 }
-.qun-pass-child5,
-.qun-pass-child6,
-.qun-pass-child7,
-.qun-pass-child8 {
+.qun-pass-child5 {
   left: 523.5px;
 }
-.qun-pass-child6,
-.qun-pass-child7,
-.qun-pass-child8 {
+.qun-pass-child6 {
   left: 654.5px;
 }
-.qun-pass-child7,
-.qun-pass-child8 {
+.qun-pass-child7 {
   left: 918.5px;
 }
 .qun-pass-child8 {
@@ -484,10 +490,12 @@
 .qun-pass-child10,
 .qun-pass-child9 {
   position: absolute;
+  box-sizing: border-box;
+}
+.qun-pass-child9 {
   top: 83.5px;
   left: 1204.5px;
   border-top: 3px solid var(--color-white);
-  box-sizing: border-box;
   width: 39px;
   height: 3px;
 }
@@ -527,6 +535,8 @@
 .group-parent167,
 .i {
   position: absolute;
+}
+.i {
   top: 25px;
   left: 80px;
 }
@@ -609,10 +619,12 @@
 .group-wrapper145,
 .group-wrapper146 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 18px;
   height: 20.69px;
+}
+.group-wrapper146 {
+  top: 0;
+  left: 0;
 }
 .group-wrapper145 {
   top: 1.15px;
@@ -661,14 +673,18 @@
 .sn-phm20 {
   position: absolute;
   top: 0;
+  height: 21px;
+}
+.sn-phm20 {
   left: 116px;
   width: 108px;
-  height: 21px;
 }
 .hans-mode-group8,
 .lin-h8 {
-  left: 276px;
   display: inline-block;
+}
+.lin-h8 {
+  left: 276px;
   width: 79px;
 }
 .hans-mode-group8 {
@@ -678,6 +694,8 @@
 .group-parent168,
 .home-parent16 {
   position: absolute;
+}
+.home-parent16 {
   top: 46px;
   left: 435px;
   width: 609px;
@@ -753,42 +771,29 @@
 .polo-wrapper,
 .shirt-wrapper,
 .sweater-wrapper {
-  top: 12.5%;
-  bottom: 75%;
   background-color: var(--color-dimgray-200);
   display: flex;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.hoodie-wrapper,
-.jacket-wrapper,
-.polo-wrapper,
+.shirt-wrapper {
+  top: 12.5%;
+  bottom: 75%;
+}
 .sweater-wrapper {
   top: 25%;
   bottom: 62.5%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.hoodie-wrapper,
-.jacket-wrapper,
-.polo-wrapper {
+.hoodie-wrapper {
   top: 37.5%;
   bottom: 50%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.jacket-wrapper,
-.polo-wrapper {
+.jacket-wrapper {
   top: 50%;
   bottom: 37.5%;
 }
-.bomber-wrapper,
-.croptop-wrapper,
-.polo-wrapper {
+.bomber-wrapper {
   top: 62.5%;
   bottom: 25%;
 }
-.croptop-wrapper,
 .polo-wrapper {
   top: 75%;
   bottom: 12.5%;
